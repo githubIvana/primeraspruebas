@@ -1,3 +1,3 @@
-# Bienvenido a mis primeraspruebas
+# Bienvenido a mis primeras pruebas
 
 Pruebas en github
